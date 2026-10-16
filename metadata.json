@@ -1,0 +1,6 @@
+{
+  "name": "Coeur de Bouskoura",
+  "description": "Coeur de Bouskoura (قلب بوسكورة) - Restaurant gastronomique marocain à Bouskoura, Casablanca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
